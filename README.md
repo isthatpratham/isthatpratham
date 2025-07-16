@@ -1,10 +1,14 @@
 
-# Hi 👋, I'm Pratham Debnath
+<h1 align="center">Hi, I'm Pratham 👋</h1>
 
-🎓 MCA Student @ SRM University  
-🔐 Cybersecurity Specialist in making  
-🎬 Freelance Video Editor  
-📚 Passionate About Ethical Hacking & Creative Storytelling
+
+<p align="center">
+  👨‍💻 MCA Student • 💻 Cybersecurity Enthusiast • 🎬 Video Editor
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=isthatpratham&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
