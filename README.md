@@ -22,7 +22,7 @@
 ![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isthatpratham&show_icons=true&theme=radical)
 
 
-###Connect with me
+### Connect with me
 
   <a href="https://www.instagram.com/prathamfsrure" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
