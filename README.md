@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi, I'm Pratham 👋</h1>
 
-
 <p align="center">
-  👨‍💻 MCA Student • 💻 Cybersecurity Enthusiast • 🎬 Video Editor
+  🎓 MCA Student @ SRM University <br/>
+  🔐 Aspiring Cybersecurity Specialist <br/>
+  🎬 Freelance Video Editor & Storyteller
 </p>
 
----
-
-![](https://komarev.com/ghpvc/?username=isthatpratham&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -24,6 +25,16 @@
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-debnath-894471314)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prathamfsrure)  
-[🌐 Portfolio](https://aiir.framer.website/)
+  <a href="https://www.instagram.com/prathamfsrure" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+   <a href="mailto:premdebnath08@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratham-debnath-894471314" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aiir.framer.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+
