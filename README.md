@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pratham 👋</h1>
 
 <p align="center">
-  🎓 MCA Student @ SRM University <br/>
+  🎓 BCA Graduate | MCA Student <br/>
   🔐 Aspiring Cybersecurity Specialist <br/>
   🎬 Freelance Video Editor & Storyteller
 </p>
