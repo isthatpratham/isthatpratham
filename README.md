@@ -3,7 +3,7 @@
 
 <p align="center">
   🎓 BCA Graduate | MCA Student <br/>
-  🔐 Aspiring Cybersecurity Specialist <br/>
+  🔐 Full-Stack web Developer <br/>
   🎬 Freelance Video Editor & Storyteller
 </p>
 
