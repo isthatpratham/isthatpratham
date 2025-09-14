@@ -2,17 +2,8 @@
 <h1 align="center">Hello World!</h1>
 
 <p align="center">
-
-</p>
 idk, i just love doing what i love
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-
-
-
-
 ### Connect with me
 
   <a href="https://www.instagram.com/prathamfsrure" target="_blank">
