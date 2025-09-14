@@ -4,8 +4,8 @@
 <p align="center">
 idk, i just love doing what i love
 </p>
-### Connect with me
 
+<p align="center">
   <a href="https://www.instagram.com/prathamfsrure" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
@@ -21,6 +21,7 @@ idk, i just love doing what i love
   <a href="https://leetcode.com/u/prathamfrsure/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="40" height="40"/>
 </a>
+</p>
 
 
 
