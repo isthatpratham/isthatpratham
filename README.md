@@ -102,3 +102,8 @@ Working on real-world hospital workflows including:
 # 📫 Connect With Me
 - GitHub: https://github.com/isthatpratham
 - LinkedIn: https://www.linkedin.com/in/pratham-debnath-894471314/
+
+
+
+
+<h2 align="center">apart from this, i have a line i read somehwere, it goes like "the more time you spend in tech, the more urge you have to buy a farm and never touch a computer again"</h2>
