@@ -102,9 +102,3 @@ Working on real-world hospital workflows including:
 # 📫 Connect With Me
 - GitHub: https://github.com/isthatpratham
 - LinkedIn: https://www.linkedin.com/in/pratham-debnath-894471314/
-
----
-
-<h1 align="center">
-Building real systems one commit at a time.
-</h1>
