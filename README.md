@@ -1,4 +1,5 @@
-<h1 align="left">Yo, I'm Pratham Debnath</h1>
+<h1 align="left">Yo, I'm Pratham</h1>
+<h4>Prem or Aiir, whatever you call me!<h4>
 <h3 align="left">Full-Stack Developer at Sanvya • MCA @ SRM University</h3>
 
 <p align="left">
