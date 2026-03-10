@@ -8,9 +8,9 @@ Building healthcare infrastructure and backend systems for real-world hospital w
 
 ## 🚀 About Me
 - 💻 Full-Stack Developer at **Sanvya**
-- 🏥 Building a **Hospital Management System** used for real healthcare workflows
+- 🏥 Building a **HMS** used for real healthcare workflows
 - 🎓 MCA Student at **SRM University, Chennai**
-- 🎓 BCA Graduate from **DHSK College, Dibrugarh**
+- 🎓 BCA Graduate from **DHSK College, Dibrugarh, Assam**
 - ⚙️ Focused on building **scalable backend systems and production-ready applications**
 
 
