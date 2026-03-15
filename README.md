@@ -5,8 +5,6 @@
 Building healthcare infrastructure and backend systems for real-world hospital workflows.
 </p>
 
-![Ammiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=isthatpratham&show_icons=true&theme=dark)
-
 
 ## 🚀 About Me
 - 💻 Full-Stack Developer at **Sanvya**
