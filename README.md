@@ -106,4 +106,4 @@ Working on real-world hospital workflows including:
 
 
 
-<h2 align="center">apart from this, i have a line i read somehwere, it goes like "the more time you spend in tech, the more urge you have to buy a farm and never touch a computer again"</h2>
+<h2 align="center">apart from this, i have a line i read somehwere, it goes like "the more time you spend in tech, the more urge you have to buy a farm and never touch a computer in your life again"</h2>
