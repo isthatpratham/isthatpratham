@@ -1,5 +1,5 @@
 <h1 align="left">Yo, I'm Pratham</h1>
-<p>Prem or Aiir, whatever you call me!</p>
+<br><p>Prem or Aiir, whatever you call me!</p>
 <h3 align="left">Full-Stack Developer at Sanvya | MCA @ SRM University</h3>
 <p align="left">
 Building healthcare infrastructure and backend systems for real-world hospital workflows.
