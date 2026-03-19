@@ -99,7 +99,7 @@ Working on real-world hospital workflows including:
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 
-# 📫 Connect With Me
+# 📫 Connect With Me:
 - GitHub: https://github.com/isthatpratham
 - LinkedIn: https://www.linkedin.com/in/pratham-debnath-894471314/
 
