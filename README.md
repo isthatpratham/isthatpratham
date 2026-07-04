@@ -108,16 +108,17 @@ Working on real-world hospital workflows including:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isthatpratham&theme=github_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
-![](https://github-readme-stats.shion.dev/api?username=isthatpratham&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
-![](https://streak-stats.demolab.com/?user=isthatpratham&theme=radical&hide_border=false)<br/> <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=isthatpratham&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
-
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=isthatpratham&theme=dracula&bg_color=00000000&hide_border=true&show_icons=true&border_radius=12" alt="GitHub Stats" />
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&theme=react-dark&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isthatpratham&theme=github-dark&hide_border=true" />
@@ -131,4 +132,4 @@ Working on real-world hospital workflows including:
 * GitHub: https://github.com/isthatpratham
 * LinkedIn: https://www.linkedin.com/in/pratham-debnath-894471314/
 
-<h2 align="center">apart from this, i have a line i read somehwere, it goes like "the more time you spend in tech, the more urge you have to buy a farm and never touch a computer in your life again"</h2>
+<br/><h2 align="center">carpe diem!</h2>
