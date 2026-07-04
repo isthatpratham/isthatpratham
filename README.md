@@ -111,6 +111,10 @@ Working on real-world hospital workflows including:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isthatpratham&theme=github_dark" />
 </p>
 
+![](https://github-readme-stats.shion.dev/api?username=isthatpratham&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> <br/>
+![](https://streak-stats.demolab.com/?user=isthatpratham&theme=radical&hide_border=false)<br/> <br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=isthatpratham&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&theme=react-dark&hide_border=true" />
 </p>
