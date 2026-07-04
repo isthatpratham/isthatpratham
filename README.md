@@ -115,9 +115,6 @@ Working on real-world hospital workflows including:
     <img src="https://github-stats-extended.vercel.app/api?username=isthatpratham&theme=dracula&bg_color=00000000&hide_border=true&show_icons=true&border_radius=12" alt="GitHub Stats" />
   </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&theme=react-dark&hide_border=true" />
-</p>
 
 
 <p align="center">
