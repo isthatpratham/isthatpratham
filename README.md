@@ -117,11 +117,6 @@ Working on real-world hospital workflows including:
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=isthatpratham&theme=github-dark&hide_border=true" />
-</p>
-
-
 # 📫 Connect With Me:
 
 
