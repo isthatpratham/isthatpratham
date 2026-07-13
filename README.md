@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 💻 Full-Stack Developer at Sanvya
 - 🎓 MCA Student at SRM University, Chennai
