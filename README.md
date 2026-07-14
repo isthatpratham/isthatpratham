@@ -29,7 +29,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="70%" />
 </div>
 
 
