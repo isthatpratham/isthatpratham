@@ -18,12 +18,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/isthatpratham">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isthatpratham&cache_seconds=10&layout=compact&theme=tokyonight&&count_private=true&border_radius=10&alt="isthatpratham's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isthatpratham&cache_seconds=60&layout=compact&theme=tokyonight&&count_private=true&border_radius=10&alt="isthatpratham's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=isthatpratham&theme=tokyonight&hide_border=true&cache_seconds=10" alt="isthatpratham's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=isthatpratham&theme=tokyonight&hide_border=true&cache_seconds=60" alt="isthatpratham's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=isthatpratham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=10" alt="Pratham Debnath's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=isthatpratham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=60" alt="Pratham Debnath's GitHub Trophies" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
