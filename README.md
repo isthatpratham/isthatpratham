@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/isthatpratham">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isthatpratham&cache_seconds=10&layout=compact&theme=tokyonight&border_radius=10&alt="isthatpratham's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isthatpratham&cache_seconds=10&layout=compact&theme=tokyonight&&count_private=true&border_radius=10&alt="isthatpratham's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=isthatpratham&theme=tokyonight&hide_border=true&cache_seconds=10" alt="isthatpratham's GitHub Streak" width="49%" />
 </p>
