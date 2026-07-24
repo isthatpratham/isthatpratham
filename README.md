@@ -173,10 +173,7 @@ A modern digital art gallery focused on elegant presentation and simplicity.
 <p align="center">
 <a href="https://artgallery-murex-phi.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
-</a>
-  
-<p align="center">
-<a href="https://github.com/isthatpratham/ArtGallery">
+</a> <a href="https://github.com/isthatpratham/ArtGallery">
 <img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
 </a>
 </p>
