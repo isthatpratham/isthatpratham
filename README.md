@@ -164,15 +164,17 @@ Discover, organize and explore the best developer resources.
 A modern digital art gallery focused on elegant presentation and simplicity.
 </p>
 
-<p align="center">
-<a href="https://artgallery-murex-phi.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
-</a>
+
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
+<p align="center">
+<a href="https://artgallery-murex-phi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+  
 <p align="center">
 <a href="https://github.com/isthatpratham/ArtGallery">
 <img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
