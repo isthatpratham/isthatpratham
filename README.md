@@ -93,6 +93,124 @@
   </a>
 </p>
 
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+Building products that blend clean design with thoughtful engineering.
+</p>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎁 GitWrapped</h3>
+
+<p align="center">
+Beautiful GitHub Wrapped experience inspired by Spotify Wrapped.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://git-wrapped-tan-sigma.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+
+<a href="https://github.com/isthatpratham/GitWrapped">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗺️ CodeAtlas</h3>
+
+<p align="center">
+Discover, organize and explore the best developer resources.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://code-atlas-beta.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+
+<a href="https://github.com/isthatpratham/CodeAtlas">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🖼️ ArtGallery</h3>
+
+<p align="center">
+A modern digital art gallery focused on elegant presentation and simplicity.
+</p>
+
+<p align="center">
+<a href="https://artgallery-murex-phi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://github.com/isthatpratham/ArtGallery">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💬 YapRecap</h3>
+
+<p align="center">
+Transform chats into beautiful yearly recaps inspired by Spotify Wrapped.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
+<img src="https://img.shields.io/badge/AI-6E57FF?style=for-the-badge">
+</p>
+
+<p align="center">
+<a href="https://yaprecap.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+
+<a href="https://github.com/isthatpratham/YapRecap">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-debnath-894471314/">
