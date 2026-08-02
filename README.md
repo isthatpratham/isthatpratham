@@ -7,7 +7,7 @@
 </p>
 
 
-## 📌 About Me
+## 📌 About Me:
 - 💻 Full-Stack Developer at Sanvya
 - 🎓 MCA Student at SRM University, Chennai
 - 🎓 BCA Graduate from DHSK College, Dibrugarh, Assam
