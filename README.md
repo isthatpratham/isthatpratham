@@ -15,15 +15,12 @@
 - ⚙️ Focused on building scalable backend systems and production-ready applications
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City" width="70%" />
 </div>
 <br>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=isthatpratham&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=60" alt="Pratham Debnath's GitHub Trophies" />
-</p>
 
 ## 🛠️ Languages & Tools
 
