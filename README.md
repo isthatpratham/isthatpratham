@@ -20,6 +20,8 @@
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City" width="70%" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&theme=react-dark&hide_border=true" />
+
 <br>
 
 ## 🛠️ Languages & Tools
