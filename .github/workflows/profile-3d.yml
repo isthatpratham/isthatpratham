@@ -35,21 +35,43 @@ jobs:
 
           svg = Path("profile-3d-contrib/profile-night-view.svg")
 
-          text = svg.read_text()
+          if not svg.exists():
+              print("SVG not found:", svg)
+              raise SystemExit(1)
+
+          text = svg.read_text(encoding="utf-8")
 
           replacements = {
-              "#9be9a8": "#ffd6b3",
-              "#40c463": "#ffb347",
-              "#30a14e": "#ff6b35",
-              "#216e39": "#d90429",
-              "#ebedf0": "#1b1b1b",
-              "#161b22": "#0d1117"
+              # Top faces
+              "rgb(25, 165, 240)": "rgb(255, 180, 71)",
+              "rgb(25, 150, 230)": "rgb(255, 150, 50)",
+              "rgb(25, 120, 220)": "rgb(255, 107, 53)",
+              "rgb(25, 90, 210)":  "rgb(217, 4, 41)",
+
+              # Left faces
+              "rgb(21, 138, 201)": "rgb(230, 120, 40)",
+              "rgb(21, 125, 192)": "rgb(220, 90, 35)",
+              "rgb(21, 100, 184)": "rgb(180, 30, 30)",
+              "rgb(21, 75, 176)":  "rgb(140, 0, 0)",
+
+              # Right faces
+              "rgb(18, 115, 168)": "rgb(200, 70, 30)",
+              "rgb(18, 105, 161)": "rgb(180, 45, 25)",
+              "rgb(18, 84, 154)":  "rgb(150, 20, 20)",
+              "rgb(18, 63, 147)":  "rgb(120, 0, 0)",
+
+              # Dark edges
+              "rgb(25, 60, 130)":  "rgb(120, 25, 15)",
+              "rgb(21, 50, 109)":  "rgb(90, 15, 10)",
+              "rgb(18, 42, 91)":   "rgb(60, 10, 5)"
           }
 
           for old, new in replacements.items():
               text = text.replace(old, new)
 
-          svg.write_text(text)
+          svg.write_text(text, encoding="utf-8")
+
+          print("✅ Recolored profile-night-view.svg")
           EOF
 
       - name: Commit changes
@@ -59,6 +81,9 @@ jobs:
 
           git add profile-3d-contrib
 
-          git diff --cached --quiet || git commit -m "Update profile-3d-contrib [skip ci]"
-
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile-3d-contrib [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
