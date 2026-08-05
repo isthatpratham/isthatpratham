@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="70%" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City" width="70%" />
 </div>
 <br>
 <p align="center">
