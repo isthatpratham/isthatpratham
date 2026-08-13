@@ -8,7 +8,7 @@
 
 
 ## 📌 About Me:
-- 💻 Full-Stack Developer at Sanvya
+- 💻 Lead Engineer Developer at Sanvya
 - 🎓 MCA Student at SRM University, Chennai
 - 🎓 BCA Graduate from DHSK College, Dibrugarh, Assam
 - 🏥 Building an infrastructure used for real healthcare workflows
