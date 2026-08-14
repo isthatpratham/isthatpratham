@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Pratham%20Debnath&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0d1117&text=Pratham%20Debnath&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=42&desc=FULL-STACK%20ENGINEER&descSize=18&descColor=3fb950&descAlignY=64" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=isthatpratham">
-    <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=Profile%20views&color=00FFFF&style=flat-square" alt="isthatpratham's profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=PROFILE%20VIEWS&color=30363d&style=flat-square" alt="Profile views" />
 </p>
 
 
