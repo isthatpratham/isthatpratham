@@ -8,10 +8,8 @@
 
 
 ## 📌 About Me:
-- 💻 Lead Engineer at Sanvya
-- 🎓 MCA Student at SRM University, Chennai
+- 🎓 MCA Student at SRM KTR, Chennai
 - 🎓 BCA Graduate from DHSK College, Dibrugarh, Assam
-- 🏥 Building an infrastructure used for real healthcare workflows
 - ⚙️ Focused on building scalable backend systems and production-ready applications
 
 
