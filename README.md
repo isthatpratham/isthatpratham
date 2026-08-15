@@ -103,6 +103,60 @@ Building products that blend clean design with thoughtful engineering.
 
 <table align="center" width="100%">
 <tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Portfolio Website </h3>
+
+<p align="center">
+A personal portfolio showcasing my work, projects, and engineering journey.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://www.prathamm.codes">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+
+<a href="https://github.com/isthatpratham/pratham-folio">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Requestly</h3>
+
+<p align="center">
+A developer workspace for discovering, inspecting, and testing public APIs.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+<p align="center">
+<a href="https://requestly-seven.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-111827?style=for-the-badge">
+</a>
+
+<a href="https://github.com/isthatpratham/requestly">
+<img src="https://img.shields.io/badge/📦_Source-24292F?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
