@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=PROFILE%20VIEWS&color=21262d&style=flat-square" alt="Profile views"/>
-</p>
+</p> </div>
 
 
 ## 📌 About Me:
@@ -263,17 +263,23 @@ Transform chats into beautiful yearly recaps inspired by Spotify Wrapped.
 
 </table>
 
-
+<br><br>
 ## 🔗 Connect with Me
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-debnath-894471314/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=7EE787" alt="LinkedIn" height="30" />
   </a>
+  &nbsp;
   <a href="mailto:premdebnath08@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=7EE787" alt="Email" height="30" />
   </a>
+  &nbsp;
   <a href="https://www.prathamm.codes">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=7EE787" alt="Website" height="30" />
   </a>
 </p>
+
+
+
 
