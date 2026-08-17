@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0d1117&text=Pratham%20Debnath&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=18&descColor=FFB000&descAlignY=62" width="100%"/>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.prathamm.codes">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=35&text=%E2%97%8F%20ONLINE%20%20%2F%20%20prathamm.codes&fontSize=15&fontColor=FFB000&fontAlignY=55" alt="prathamm.codes"/>
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=050505&text=PRATHAM%20DEBNATH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%2F%2F%20SYSTEM%20BUILDER&descSize=15&descColor=00D9FF&descAlignY=65" width="100%"/>
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isthatpratham&label=PROFILE%20VIEWS&color=21262d&style=flat-square" alt="Profile views"/>
