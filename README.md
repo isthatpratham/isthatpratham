@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0d1117&text=Pratham%20Debnath&fontSize=52&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=18&descColor=FFB000&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0d1117&text=Pratham%20Debnath&fontSize=50&fontColor=E6EDF3&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=18&descColor=FFB000&descAlignY=62" width="100%"/>
 
 <p align="center">
   <a href="https://www.prathamm.codes">
