@@ -134,7 +134,7 @@ thoughtful design.
 
 <td width="38%" valign="top">
 
-<img src="./my.jpg" width="100%" alt="my standing against a snow-covered mountain" />
+<img src="./mori.jpg" width="100%" alt="my standing against a snow-covered mountain" />
 
 </td>
 
