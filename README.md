@@ -277,10 +277,6 @@ Discover, organize, and explore useful resources for developers.
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D contribution graph" width="70%" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isthatpratham&theme=react-dark&hide_border=true" alt="GitHub activity graph" width="100%" />
-
 </div>
 
 <br>
