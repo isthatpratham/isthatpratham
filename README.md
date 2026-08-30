@@ -268,13 +268,6 @@ Discover, organize, and explore useful resources for developers.
 <br>
 
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=isthatpratham&theme=holi-theme&hide_border=true&border_radius=20&timezone=IST&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200&hide_current_streak=true" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D contribution graph" width="70%" />
 
 </div>
