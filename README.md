@@ -270,6 +270,6 @@ Discover, organize, and explore useful resources for developers.
 <div align="center">
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D contribution graph" width="70%" />
 
-</div>
+</div><br>
 
 <br>
