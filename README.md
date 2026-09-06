@@ -20,8 +20,7 @@ thoughtful design.
 
 <p>
 <a href="https://www.prathamm.codes">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <a href="https://github.com/isthatpratham">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
