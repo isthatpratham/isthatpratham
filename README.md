@@ -1,6 +1,6 @@
 <div align="center">
 <h2><strong>PRATHAM DEBNATH</strong><br></h2>
-<strong>SOFTWARE ENGINEER // SYSTEM BUILDER</strong><br>
+<strong>SOFTWARE ENGINEER / SYSTEM BUILDER</strong><br>
 </div>
 
 <table>
