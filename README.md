@@ -12,8 +12,8 @@
 
 <p>
 I build production-ready applications, backend systems, and
-developer-focused products with a focus on clean engineering and
-thoughtful design.
+developer-focused products with a clear focus on clean engineering
+and thoughtful design.
 </p>
 
 <br>
