@@ -15,7 +15,6 @@ I build production-ready applications, backend systems, and
 developer-focused products with a clear focus on clean engineering
 and thoughtful design.
 </p>
-
 <br>
 <p>
 <a href="https://www.prathamm.codes">
