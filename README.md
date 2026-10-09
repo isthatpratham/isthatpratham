@@ -8,6 +8,7 @@
 <td width="40%" valign="center">
 
 <br>
+
 <p>
 I build production-ready applications, backend systems, and
 developer-focused products with a clear focus on clean engineering
