@@ -30,6 +30,7 @@ and thoughtful design.
 <a href="mailto:premdebnath08@gmail.com">
 <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
 
 <br>
