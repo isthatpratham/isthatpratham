@@ -4,9 +4,7 @@
 </div>
 <table>
 <tr>
-
 <td width="40%" valign="center">
-
 <br>
 <p>
 I build production-ready applications, backend systems, and
